@@ -187,7 +187,7 @@ ChangeDetection ---> github.com/dgtlmoon/changedetection.io ---> informa sobre n
 
 GAP ---> https://github.com/xnl-h4ck3r/burp-extensions ---> Extension de burpsuite para java script parsing
 
-Hacksplaining ---> te explica las vulnerabilidades en una pagina real
+https://www.hacksplaining.com/lessons ---> te explica las vulnerabilidades en una pagina real
 
 https://www.bugbountyhunting.com/  ---> google de bug bounty --> reportes, write ups, payloads
 
@@ -197,7 +197,7 @@ https://writeups.io/ ---> write ups
 
 https://chaos.projectdiscovery.io/#/ ---> Recon data for Public Bug Bounty Programs
 
-https://github.com/KathanP19/HowToHunt ---> bug bounty guides
+https://github.com/KathanP19/HowToHunt ---> bug bounty guides MUY BUENO
 
 https://tools.revesery.com/medium/ ---> leer reportes medium gratis
 

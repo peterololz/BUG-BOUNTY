@@ -199,4 +199,6 @@ https://chaos.projectdiscovery.io/#/ ---> Recon data for Public Bug Bounty Progr
 
 https://github.com/KathanP19/HowToHunt ---> bug bounty guides
 
+https://tools.revesery.com/medium/ ---> leer reportes medium gratis
+
 ```

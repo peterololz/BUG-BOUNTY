@@ -52,7 +52,7 @@ CONTENT DISCOVERY MOBILE
 -WPScan (wordpress)
 -Drooperscan (droopal)
 ```
-## JAVASCRIPT PARSING
+### JAVASCRIPT PARSING
 
 -GAP (BurpSuite extension)
 

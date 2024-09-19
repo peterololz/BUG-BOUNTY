@@ -53,12 +53,12 @@ CONTENT DISCOVERY MOBILE
 -Drooperscan (droopal)
 ```
 ### JAVASCRIPT PARSING
-
+```
 -GAP (BurpSuite extension)
 
 Command line spidering --->
 xnLinkFinder ---> python3 xnLinkFinder.py -i tesla.com -v -d 2 -sp https://tesla.com
-```
+
 ```
 ### FASES AUTOMATIZADAS
  ```
